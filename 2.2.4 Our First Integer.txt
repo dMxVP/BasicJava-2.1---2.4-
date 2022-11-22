@@ -1,0 +1,10 @@
+public class Variables extends ConsoleProgram
+{
+
+    public void run()
+    {
+        int currYear = 2022;
+        System.out.println("The current year is " + currYear);
+    }
+
+}
