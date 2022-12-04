@@ -1,0 +1,12 @@
+public class Factorial extends ConsoleProgram
+{
+    public void run()
+    {
+        int n = readInt("What number do you want? ");
+        int s=1;
+        for(int i=2; i<=n; ++i)
+            s*=i;
+        
+        System.out.println(s);
+    }
+}
