@@ -1,8 +1,0 @@
-public class Welcome 
-{
-    public void run()
-    {
-        System.out.println("My name is Mihnea.");
-        System.out.println("I enjoy traveling.");
-    } 
-}
